@@ -145,7 +145,7 @@ Mobile Responsive Dashboard
 Predictive Analytics using Power BI
 👨‍💻 Author
 
-Viki
+Raju Kumar maurya
 
 Aspiring Data Analyst | AI Engineer | Machine Learning Enthusiast
 
